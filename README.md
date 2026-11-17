@@ -1,4 +1,4 @@
 # MatchiTOOL
 Each release shows the SHA-256 of the APK in its notes. Compare it with the file you downloaded before installing.
 
-Source code is private. This repository only hosts release builds.
+x Source code is private. This repository only hosts release builds.
